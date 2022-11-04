@@ -5,5 +5,5 @@ This is the repository of Project Hyper Pelican.
 This does not have anything yet but it will serve a purpose in the future.
 
 # Team Members
-Lambuson - Leader
+Lambuson - Leader<br/>
 Ho
